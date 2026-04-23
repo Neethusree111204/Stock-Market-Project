@@ -33,7 +33,7 @@ The Real-Time Stock Market Dashboard is a web-based application that allows user
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Neethusree111204/Stockmarket.git
+git clone https://github.com/Neethusree111204/Stockmarket/Stock-dashboard.git
 cd stock-dashboard
 ```
 
